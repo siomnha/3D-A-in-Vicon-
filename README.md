@@ -1,1 +1,6 @@
-# 3D-A-in-Vicon-
+# 3D-A*-in-Vicon-
+
+
+The repo use interact a* with mavproxy and mavros
+
+# step 1
